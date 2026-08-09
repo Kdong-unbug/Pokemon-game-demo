@@ -1,4 +1,8 @@
-   
+#include <iostream>
+#include <string>
+
+using namespace std;
+
 
 class Skill
 {
@@ -39,3 +43,8 @@ public:
 	
 	
 };
+
+int main()
+{
+	return 0;
+}
