@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>pic/deer0.png</file>
+        <file>pic/deer1.png</file>
+        <file>pic/firefox0.png</file>
+        <file>pic/firefox1.png</file>
+        <file>pic/otter0.png</file>
+        <file>pic/map1.png</file>
+        <file>pic/play0.png</file>
+        <file>pic/play1.png</file>
+        <file>pic/play2.png</file>
+        <file>pic/play3.png</file>
+        <file>pic/MS.J.png</file>
+        <file>pic/first.png</file>
+        <file>pic/map0.png</file>
+        <file>pic/map2.png</file>
+        <file>pic/map3.png</file>
+        <file>pic/shopnpc.png</file>
+        <file>pic/fightnpc.png</file>
+        <file>pic/npc1.png</file>
+    </qresource>
+</RCC>
